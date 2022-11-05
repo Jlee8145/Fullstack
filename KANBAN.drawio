@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T00:44:39.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2kE8j_Qz9GUMTdllf356" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T16:43:47.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8iRaQ6HaCa12WwFdTRH3" version="20.5.2" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="2062" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,35 +22,35 @@
         <mxCell id="2En7QJ2lPjwswf4CHjgP-8" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="160" y="120" width="200" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="2En7QJ2lPjwswf4CHjgP-9" value="Flowchart" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="200" y="130" width="140" height="80" as="geometry" />
+        <mxCell id="2En7QJ2lPjwswf4CHjgP-9" value="Flowchart" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="590" y="410" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2En7QJ2lPjwswf4CHjgP-10" value="Code API call to API at rest" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="390" y="220" width="140" height="80" as="geometry" />
+        <mxCell id="2En7QJ2lPjwswf4CHjgP-10" value="Code API call to API at rest" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="590" y="320" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2En7QJ2lPjwswf4CHjgP-11" value="Deploy CI/CD Pipeline" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="200" y="490" width="140" height="80" as="geometry" />
+        <mxCell id="2En7QJ2lPjwswf4CHjgP-12" value="Run code thru Bandit" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="590" y="500" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2En7QJ2lPjwswf4CHjgP-12" value="Run code thru Bandit" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="200" y="220" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2En7QJ2lPjwswf4CHjgP-13" value="Port .Net to Python3" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="2En7QJ2lPjwswf4CHjgP-13" value="Port .Net to Python3" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="590" y="140" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2En7QJ2lPjwswf4CHjgP-14" value="Kanban backlog" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="2En7QJ2lPjwswf4CHjgP-14" value="Kanban backlog" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="590" y="230" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2En7QJ2lPjwswf4CHjgP-15" value="Anxiety" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="390" y="130" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2En7QJ2lPjwswf4CHjgP-16" value="Fix code security" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="200" y="310" width="140" height="80" as="geometry" />
+        <mxCell id="2En7QJ2lPjwswf4CHjgP-16" value="Fix code security" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="590" y="590" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2En7QJ2lPjwswf4CHjgP-17" value="Setup Lambda EC2 Instance" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="200" y="400" width="140" height="80" as="geometry" />
+        <mxCell id="2En7QJ2lPjwswf4CHjgP-17" value="Deploy to Docker" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="190" y="140" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2En7QJ2lPjwswf4CHjgP-18" value="Test, Test, Test!!!" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="390" y="310" width="140" height="80" as="geometry" />
+          <mxGeometry x="390" y="230" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zBMRjgST6Vd2T5Ucz7cw-1" value="Fix Code so it runs on Docker" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
